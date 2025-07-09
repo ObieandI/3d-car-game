@@ -1,0 +1,6 @@
+READ ME
+When opening the Bug Report & QA Plan Apple does 
+this weird thing where it turns the document
+upside down. To fix this, simply scroll to the
+bottom and scroll back up. Thank you :)
+Ambra & Trevor
