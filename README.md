@@ -2,8 +2,7 @@
 
 A Unity-based 3D driving simulation developed as part of the COMP2160 Game Development unit at Macquarie University. This project focuses on vehicle physics, UI feedback, and modular game systems using object-oriented design.
 
-![Gameplay Screenshot]<img width="560" height="259" alt="Screenshot 2025-06-14 144415" src="https://github.com/user-attachments/assets/e5b866ac-2a60-449c-92ef-ae699ce0dc20" />
-
+<img width="560" height="259" alt="Screenshot 2025-06-14 144415" src="https://github.com/user-attachments/assets/e5b866ac-2a60-449c-92ef-ae699ce0dc20" />
 
 ## About the Game
 
