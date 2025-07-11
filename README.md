@@ -19,7 +19,7 @@ Players control a car that must navigate a 3D terrain while passing checkpoints,
 
 ## My Role
 
-- **I contributed across the development cycle with a primary focus on:
+- I contributed across the development cycle with a primary focus on:
 - **UI & Gameplay Feedback:** Designed and implemented the health bar and checkpoint system.
 - **Scripting:** Built scripts for HealthBar, checkpoint logic, and contributed to overall game state control.
 - **Debugging:** Helped identify and resolve gameplay issues related to health depletion and checkpoint triggers.
