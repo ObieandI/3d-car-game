@@ -20,28 +20,28 @@ Players control a car that must navigate a 3D terrain while passing checkpoints,
 ## My Role
 
 - **I contributed across the development cycle with a primary focus on:
-- **UI & Gameplay Feedback: Designed and implemented the health bar and checkpoint system.
-- **Scripting: Built scripts for HealthBar, checkpoint logic, and contributed to overall game state control.
-- **Debugging: Helped identify and resolve gameplay issues related to health depletion and checkpoint triggers.
-- **User Experience: Ensured smooth player feedback through UI updates and visual consistency.
+- **UI & Gameplay Feedback:** Designed and implemented the health bar and checkpoint system.
+- **Scripting:** Built scripts for HealthBar, checkpoint logic, and contributed to overall game state control.
+- **Debugging:** Helped identify and resolve gameplay issues related to health depletion and checkpoint triggers.
+- **User Experience:** Ensured smooth player feedback through UI updates and visual consistency.
 
 ---
 
 ## Challenges Faced
 
-- **Terrain Collision Bugs: Early car movement caused unwanted clipping through terrain, fixed by refining colliders.
-- **UI Conflicts: Timer and checkpoint systems conflicted during game flow—solved by consolidating state management.
-- **Balancing Feel: Fine-tuned driving to feel responsive but controllable within Unity's physics system.
-- **Scope Control: Had to limit feature ideas like lap tracking and multiple car types to finish core systems on time.
+- **Terrain Collision Bugs:** Early car movement caused unwanted clipping through terrain, fixed by refining colliders.
+- **UI Conflicts:** Timer and checkpoint systems conflicted during game flow—solved by consolidating state management.
+- **Balancing Feel:** Fine-tuned driving to feel responsive but controllable within Unity's physics system.
+- **Scope Control:** Had to limit feature ideas like lap tracking and multiple car types to finish core systems on time.
 
 ---
 
 ## Key Learnings
 
-- **Modular Programming: Gained confidence in creating reusable C# scripts to control health and checkpoint logic.
-- **UI Design in Unity: Learned to synchronize in-game events with real-time visual feedback.
-- **Collaborative Development: Practiced GitHub Classroom collaboration and division of responsibilities.
-- **Debugging Under Pressure: Developed faster workflows for identifying and fixing gameplay errors.
+- **Modular Programming:** Gained confidence in creating reusable C# scripts to control health and checkpoint logic.
+- **UI Design in Unity:** Learned to synchronize in-game events with real-time visual feedback.
+- **Collaborative Development:** Practiced GitHub Classroom collaboration and division of responsibilities.
+- **Debugging Under Pressure:** Developed faster workflows for identifying and fixing gameplay errors.
 
 ---
 
