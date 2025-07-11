@@ -1,58 +1,57 @@
-3D Car Simulation – COMP2160 Project
-A Unity-based 3D car simulation developed as part of the COMP2160 Game Development unit at Macquarie University. This project focuses on foundational driving mechanics, custom scripting, and interactive environment design.
+🚗 3D Car Simulation – COMP2160 Project
+A Unity-based 3D driving simulation developed as part of the COMP2160 Game Development unit at Macquarie University. This project focuses on vehicle physics, UI feedback, and modular game systems using object-oriented design.
 
-<img width="1122" height="508" alt="3D-Car-Game" src="https://github.com/user-attachments/assets/7a22cf21-d55b-4799-a67c-d081b4404af1" />
+<img width="560" height="259" alt="Screenshot 2025-06-14 144415" src="https://github.com/user-attachments/assets/e5b866ac-2a60-449c-92ef-ae699ce0dc20" />
 
-About the Game
-Players control a vehicle navigating a 3D terrain using realistic acceleration, braking, and steering mechanics. The simulation includes checkpoints, health tracking, and a basic UI for feedback and timing. The goal is to create an engaging and testable driving experience within a controlled environment.
 
-Technologies Used
+🎮 About the Game
+Players control a car that must navigate a 3D terrain while passing checkpoints, monitoring health, and racing against a timer. The game emphasizes foundational Unity skills such as physics simulation, UI integration, and player interaction through real-time feedback.
+
+🔧 Technologies Used
 Game Engine: Unity
-
-Scripting: C# (Visual Studio)
 
 Version Control: Git & GitHub Classroom
 
+Scripting: C# (Visual Studio)
+
 Collaboration Tools: Google Drive, GitHub Issues
 
-My Role
-I contributed to the project with a focus on:
+👩‍💻 My Role
+I contributed across the development cycle with a primary focus on:
 
-UI & Gameplay Logic: Created the health bar, checkpoint counter, and game timer scripts.
+UI & Gameplay Feedback: Designed and implemented the health bar and checkpoint system.
 
-Code Structuring: Helped modularize scripts such as GameManager, PlayerMove, HealthBar, and UIManager.
+Scripting: Built scripts for HealthBar, checkpoint logic, and contributed to overall game state control.
 
-Debugging & Playability: Tested checkpoint triggers, health depletion, and overall flow for smoother gameplay.
+Debugging: Helped identify and resolve gameplay issues related to health depletion and checkpoint triggers.
 
-Visual Feedback: Assisted in refining camera angles and on-screen prompts for clearer user interaction.
+User Experience: Ensured smooth player feedback through UI updates and visual consistency.
 
-Challenges Faced
-Terrain Clipping: Early terrain models caused the car to clip through geometry. Fixed by adjusting collider shapes and mesh hierarchy.
+🚧 Challenges Faced
+Terrain Collision Bugs: Early car movement caused unwanted clipping through terrain, fixed by refining colliders.
 
-UI Conflicts: Timer and checkpoint logic initially conflicted; resolved with a single manager script to control game state.
+UI Conflicts: Timer and checkpoint systems conflicted during game flow—solved by consolidating state management.
 
-Control Tuning: It took multiple iterations to make driving feel responsive without being too sensitive or slow.
+Balancing Feel: Fine-tuned driving to feel responsive but controllable within Unity's physics system.
 
-Scope Management: Balancing foundational functionality with feature-creep (e.g., race modes) was necessary for timely delivery.
+Scope Control: Had to limit feature ideas like lap tracking and multiple car types to finish core systems on time.
 
-Key Learnings
-Game Architecture: Built and structured interdependent scripts that communicated across systems.
+📚 Key Learnings
+Modular Programming: Gained confidence in creating reusable C# scripts to control health and checkpoint logic.
 
-Simulation Scripting: Developed hands-on experience implementing real-time physics and gameplay logic.
+UI Design in Unity: Learned to synchronize in-game events with real-time visual feedback.
 
-Team Coordination: Collaborated on GitHub using Classroom workflows and division of scripting tasks.
+Collaborative Development: Practiced GitHub Classroom collaboration and division of responsibilities.
 
-Problem-Solving: Learned to debug unexpected Unity behaviors and prioritize features under time pressure.
+Debugging Under Pressure: Developed faster workflows for identifying and fixing gameplay errors.
 
-Screenshots
+📷 Screenshots
 
-<img width="1122" height="508" alt="3D-Car-Game" src="https://github.com/user-attachments/assets/7a22cf21-d55b-4799-a67c-d081b4404af1" />
+<img width="1122" height="508" alt="3D-Car-Game" src="https://github.com/user-attachments/assets/2b4a95f4-42fe-43d1-bef3-e967f24965cf" />
 
-<img width="560" height="259" alt="Screenshot 2025-06-14 144415" src="https://github.com/user-attachments/assets/4cc5e708-430d-4ae0-ab6e-4a9efbab69f3" />
-
+<img width="560" height="259" alt="Screenshot 2025-06-14 144415" src="https://github.com/user-attachments/assets/16144c03-bccc-4f8c-aa24-d3a06d19a8c6" />
 
 🔗 Credits
-Developed by Trevor Martin (45942102) and Ambra Vladone (46503595)
-COMP2160 – Macquarie University
-Scripting, UI & Debugging by Ambra Vladone
-Environment, Vehicle Physics & Game Loop by Trevor Martin
+Developed by Trevor Martin (45942102) and Ambra Vladone (46503595) – Macquarie University
+Health System, Checkpoint Logic & Environment Design by Ambra Vladone
+Vehicle Physics, UI Scripting & Game Loop by Trevor Martin
